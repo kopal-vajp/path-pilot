@@ -1,2 +1,0 @@
-# path-pilot
-An AI-powered career coaching platform built with Next.js, Tailwind, Prisma, Shadcn UI, and Gemini AI. Helps users explore roles, get skill insights, and receive personalized career guidance in real time.
